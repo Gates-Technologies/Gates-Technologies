@@ -2,7 +2,7 @@
 
 RG Technologies is an independent software development initiative focused on designing, building and experimenting with modern and scalable software solutions.
 
-Founded by Rodrigo Gates, the organization serves as a technical portfolio and innovation lab, where projects are developed with clean architecture, maintainability and performance in mind.
+Founded by Rodrigogates, the organization serves as a technical portfolio and innovation lab, where projects are developed with clean architecture, maintainability and performance in mind.
 
 ## Focus Areas
 
